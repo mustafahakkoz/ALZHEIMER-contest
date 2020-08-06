@@ -5,7 +5,7 @@ A submission for  [drivendata.com 3D-MRI video contest.](https://www.drivendata.
 team: ru_kola  
 members: [@mustafahakkoz](https://github.com/mustafahakkoz), [@Aysenuryilmazz](https://github.com/Aysenuryilmazz)  
 rank: 44 / 922  
-score (matthew's correlation coefficient): 0.1564  s
+score (matthew's correlation coefficient): 0.1564  
 dataset: [Stall Catchers micro dataset](https://www.drivendata.org/competitions/65/clog-loss-alzheimers-research/page/217/#videos) 2399 3D-MRI videos with 70/30 class ratio (flowing/stalled)  
 <img src="https://github.com/mustafahakkoz/ALZHEIMER-contest/blob/master/images%20and%20samples/ezgif-6-a26e6587b744.gif">
 
